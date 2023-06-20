@@ -1,8 +1,6 @@
 import { useState } from "react"
 
 function IndexPopup() {
-
-
   return (
     <div
       style={{
